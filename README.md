@@ -5,6 +5,7 @@ Here is a short description of my current work-
 - Currently i am learning Micro-service Arhcitechture
 - How to reach me: mahabub.prog@gmail.com
 
+![Mahabubur Rahman's github stats](https://github-readme-stats.vercel.app/api?username=engrmahabub&show_icons=true&theme=vision-friendly-dark&hide=issues)
 <!--
 - 👋 Hi, I’m @engrmahabub
 - 👀 I’m interested in ...
